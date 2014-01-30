@@ -1,5 +1,4 @@
 
-
 * Spectrum Analyser
   * In order to determine frequencies to remove, we first check out the noise.
 * Oscilloscope
@@ -24,3 +23,4 @@ Mechanical Enclosures (we are all a bit mechanical)
 * 123Design -- next level Tinkercad (competitions and scholarships?)
 * Tinkercad for enclosures
 * Tinkercad for Quick SVG
+* openscad for procedural design
